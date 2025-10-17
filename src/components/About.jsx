@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Users, Heart, Clock, Shield, Globe, Brain } from 'lucide-react'
+import { Users, Heart, Clock, Shield, Globe, Brain, Speech } from 'lucide-react'
 
 export default function About() {
   const features = [
