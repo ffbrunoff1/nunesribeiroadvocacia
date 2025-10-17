@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Book, Instagram, Facebook, Calendar, Users, Gavel } from 'lucide-react'
+import { Book, Instagram, Facebook, Calendar, Users, Gavel, Building } from 'lucide-react'
 
 export default function Blog() {
   const categories = [
